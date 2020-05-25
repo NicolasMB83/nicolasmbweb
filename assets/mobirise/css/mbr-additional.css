@@ -1290,8 +1290,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rZxVrQFjqu {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
 .cid-rZxVrQFjqu .main {
@@ -1507,28 +1507,40 @@ section.lazy-placeholder:after {
 .cid-rZt8vIEz55 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #767676;
+  background-image: url("../../../assets/images/ppt1bck-1920x1280.jpg");
 }
-.cid-rZKS5x6Jxm {
+.cid-rZt8vIEz55 .iframe-slideshare-16x9 {
+  padding-bottom: calc(94.25%);
+  position: relative;
+  width: 100%;
+  height: 0;
+}
+.cid-rZt8vIEz55 .iframe-slideshare-16x9 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #CCC;
+}
+.cid-s01qdq1LdM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/ppt2bck-1920x1280.jpg");
 }
-.cid-rZKS5x6Jxm .mbr-figure {
-  margin: 0 auto;
+.cid-s01qdq1LdM .iframe-slideshare-16x9 {
+  padding-bottom: calc(94.25%);
+  position: relative;
   width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
+  height: 0;
 }
-.cid-rZKS5x6Jxm .mbr-figure img {
+.cid-s01qdq1LdM .iframe-slideshare-16x9 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
   height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rZKS5x6Jxm .mbr-figure img {
-    width: 100% !important;
-  }
+  border: 1px solid #CCC;
 }
 .cid-rXz1nWgiEg .navbar {
   background: #16161e;
@@ -1933,7 +1945,7 @@ section.lazy-placeholder:after {
 .cid-rZKPPmYjmV {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #2e2e2e;
 }
 .cid-rZKPPmYjmV P {
   color: #767676;
