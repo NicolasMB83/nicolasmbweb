@@ -759,10 +759,12 @@
               "margin": "0 0 .5rem 0"
             },
             "H2": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#fafafa"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#fafafa"
             }
           },
           "_name": "header12",
