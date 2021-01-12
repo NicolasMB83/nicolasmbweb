@@ -3763,13 +3763,13 @@ a {
 }
 @media (min-width: 992px) {
   .cid-slxEPoIjZy .card {
-    border-right: 1px solid white;
+    border-right: 0px solid white;
   }
 }
 @media (max-width: 991px) {
   .cid-slxEPoIjZy .card {
     border-right: 0px;
-    border-bottom: 1px solid white;
+    border-bottom: 0px solid white;
   }
 }
 .cid-slxEPoIjZy .wrapper {
